@@ -1,54 +1,102 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+# **LabLink - Lab Test Booking App**
 
-1. Install dependencies
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)]()
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 
-   ```bash
-   npm install
-   ```
+An online platform that allows users to conveniently **book lab tests for home sampling**. Users can select tests, schedule sampling, and track their bookings seamlessly.
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## **Features**
 
-In the output, you'll find options to open the app in a
+* **User Authentication** – Sign up and log in securely.
+* **Browse Tests** – View a catalog of available lab tests.
+* **Cart System** – Add multiple tests before booking.
+* **Home Sampling** – Select desired date, time, and address.
+* **Booking Management** – View and manage existing bookings.
+* **Admin Panel** – Manage users, tests, and appointments.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## **Technologies Used**
 
-When you're ready, run:
+![React Native](https://img.shields.io/badge/Frontend-React%20Native-61DAFB?style=for-the-badge&logo=react)
+  ![CSS](https://img.shields.io/badge/Styling-CSS-264de4?style=for-the-badge&logo=css&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+
+---
+
+## **Installation**
+
+### Clone the repository
 
 ```bash
-npm run reset-project
+git clone https://github.com/your-username/lab-test-booking-app.git
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### Navigate to project folder
 
-## Learn more
+```bash
+cd lab-test-booking-app
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+### Install dependencies
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+```bash
+npm install
+```
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## **Usage**
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# LabLink
->>>>>>> 382046b997ef4670697ee24ea9ad2210934ab8dd
+### Run development server
+
+```bash
+npm start
+```
+
+### Access in browser
+
+```
+http://localhost:3000
+```
+
+---
+
+## **Project Structure**
+
+```
+/frontend    -> React Native UI code
+/backend     -> Express server code
+/database    -> Database models & schema
+```
+
+---
+
+## **Screenshots (Optional)**
+
+*(Add app screenshots here later for better presentation)*
+
+---
+
+## **Contributing**
+
+1. Fork this repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Commit changes (`git commit -m "Add new feature"`)
+4. Push to your branch (`git push origin feature-name`)
+5. Create a Pull Request
+
+---
+
+## **License**
+
+This project is licensed under the [MIT License](LICENSE).
+
+
