@@ -39,14 +39,17 @@ The objective is to create a **fast, secure, and user-friendly mobile app** that
 ### **Clone the repository**
 ```bash
 git clone https://github.com/emanfaisal333/LabLink.git
-
+```
 ---
 Navigate to the project folder
-
+```bash
 cd LabLink
+```
 Install dependencies
-
+```bash
 npm install
+```
 Run the development server
-
+```bash
 npm start
+```
