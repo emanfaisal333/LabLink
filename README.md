@@ -36,7 +36,7 @@ An online platform that allows users to conveniently **book lab tests for home s
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/lab-test-booking-app.git
+git clone https://github.com/emanfaisal333/LabLink.git
 ```
 
 ### Navigate to project folder
@@ -65,16 +65,6 @@ npm start
 
 ```
 http://localhost:3000
-```
-
----
-
-## **Project Structure**
-
-```
-/frontend    -> React Native UI code
-/backend     -> Express server code
-/database    -> Database models & schema
 ```
 
 ---
