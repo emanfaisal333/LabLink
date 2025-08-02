@@ -1,12 +1,8 @@
 # **LabLink - Lab Test Booking App**
+LabourLink is a mobile app that allows users to conveniently book lab tests and manage home sample collection services.
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)]()  
-[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 
----
-
-## **Project Objective**
+## 📖 **About The Project**
 
 The **LabLink** app aims to simplify healthcare access by allowing users to **book lab tests from home** without visiting clinics.  
 Users can browse tests, schedule home sampling at convenient times, and track their bookings in real-time.  
@@ -26,7 +22,7 @@ The objective is to create a **fast, secure, and user-friendly mobile app** that
 
 ---
 
-## **Technologies Used**
+## 🛠️ **Built With**
 
 ![React Native](https://img.shields.io/badge/Frontend-React%20Native-61DAFB?style=for-the-badge&logo=react)  
 ![CSS](https://img.shields.io/badge/Styling-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)  
@@ -35,6 +31,17 @@ The objective is to create a **fast, secure, and user-friendly mobile app** that
 ---
 
 ## **How to Run the Project**
+
+## 🚀 Getting Started
+
+To get a local copy of the Lab Link project up and running on your machine, follow these steps.
+
+### Prerequisites
+
+- *Node.js and npm* must be installed. Download from [https://nodejs.org/](https://nodejs.org/)
+- *Expo Go app* installed on your mobile device:
+  - [Android (Play Store)](https://play.google.com/store/apps/details?id=host.exp.exponent)
+  - [iOS (App Store)](https://apps.apple.com/app/expo-go/id982107779)
 
 ### **Clone the repository**
 ```bash
@@ -51,5 +58,5 @@ npm install
 ```
 Run the development server
 ```bash
-npm start
+npx expo start
 ```
