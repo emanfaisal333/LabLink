@@ -1,6 +1,6 @@
 # **LabLink - Lab Test Booking App**
 LabourLink is a mobile app that allows users to conveniently book lab tests and manage home sample collection services.
-
+[![Product Screenshot](screenshots/about.png)](https://github.com/emanfaisal333/LabLink)
 
 ## 📖 **About The Project**
 
