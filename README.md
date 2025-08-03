@@ -1,13 +1,20 @@
 # **LabLink - Lab Test Booking App**
+
 LabourLink is a mobile app that allows users to conveniently book lab tests and manage home sample collection services.
-[![Product Screenshot](screenshots/about.png)](https://github.com/emanfaisal333/LabLink)
+
 
 ## 📖 **About The Project**
 
 The **LabLink** app aims to simplify healthcare access by allowing users to **book lab tests from home** without visiting clinics.  
 Users can browse tests, schedule home sampling at convenient times, and track their bookings in real-time.  
 
-The objective is to create a **fast, secure, and user-friendly mobile app** that modernizes how patients manage medical test bookings.
+The objective is to create a **fast, and user-friendly mobile app** that modernizes how patients manage medical test bookings.
+
+
+
+
+[![Product Screenshot](screenshots/about.png)](https://github.com/emanfaisal333/LabLink)
+
 
 ---
 
@@ -23,10 +30,10 @@ The objective is to create a **fast, secure, and user-friendly mobile app** that
 ---
 
 ## 🛠️ **Built With**
-
-![React Native](https://img.shields.io/badge/Frontend-React%20Native-61DAFB?style=for-the-badge&logo=react)  
-![CSS](https://img.shields.io/badge/Styling-CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase)
+- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -60,6 +67,19 @@ Run the development server
 ```bash
 npx expo start
 ```
+
+### ▶ Running the App
+
+After the dependencies are installed, start the development server with Expo:
+
+```bash
+npx expo start
+```
+
+This will open a browser window with a QR code.  
+Scan the QR code using the *Expo Go* app on your mobile device to launch and preview the app.
+
+> Make sure your computer and phone are connected to the same Wi-Fi network.
 
 ## 📸 System Screenshots
 
