@@ -60,3 +60,54 @@ Run the development server
 ```bash
 npx expo start
 ```
+
+## 📸 System Screenshots
+
+<details>
+<summary>🛠 Admin Panel Screenshots</summary>
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard-1.png)
+
+### Admin - Login
+![Admin Login](screenshots/admin-login.png)
+
+### Add Lab Test
+![Add Lab Test](screenshots/addLabTest-1.png)
+
+### Remove Lab Test
+![Remove Lab Test](screenshots/removeLabTest-3.png)
+
+</details>
+
+<details>
+<summary>👤 User Panel Screenshots</summary>
+
+### Login Page
+![Login Page](screenshots/Login.png)
+
+### Sign Up Page
+![Sign Up Page](screenshots/Signup.png)
+
+### Title Page
+![Title Page](screenshots/TitlePage-1.png)
+
+### Search Page
+![Search Page](screenshots/Search-2.png)
+
+### Lab Test Categories Page
+![Blood Tests](screenshots/BloodTests.png)
+
+### Lab Test Page
+![Hb Test](screenshots/Hb-2.png)
+
+### Cart View
+![Cart](screenshots/Cart.png)
+
+### Checkout Summary
+![Checkout](screenshots/checkout-1.png)
+
+### Checkout - Order Summary
+![Order Summary](screenshots/checkout-orderSummary.png)
+
+</details>
